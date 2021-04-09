@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task_3_1C</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="enter_name">Enter your name:</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="take_new_quiz">Take New Quiz</string>
+    <string name="finish">Finish</string>
+    <string name="congrats">Congratulations</string>
+
+
+</resources>
