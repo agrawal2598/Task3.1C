@@ -42,7 +42,6 @@ public class ShowResultActivity extends AppCompatActivity {
         btnFinish.setOnClickListener(v->{
             finish();
         });
-
     }
 
 }

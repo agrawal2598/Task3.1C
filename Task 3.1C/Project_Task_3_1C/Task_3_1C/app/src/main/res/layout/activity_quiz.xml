@@ -108,6 +108,18 @@
             android:textColor="@color/black"
             android:background="@drawable/selector_options_button"/>
 
+        <RadioButton
+            android:id="@+id/radioOption4"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:text="option 1"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:background="@drawable/selector_options_button"/>
+
     </RadioGroup>
 
 
